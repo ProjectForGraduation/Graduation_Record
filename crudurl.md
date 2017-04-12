@@ -1,7 +1,8 @@
 ### 유저등록하는 html페이지
 `http://13.124.115.238:8080/insertUser`
 
-### 글등록하는 html페이지 (user_id:7로만 전송###
+### 글등록하는 html페이지 
+> user_id:7로만 전송
 `http://13.124.115.238:8080/insertContents`
 ### GET 모든유저보기##
 `http://13.124.115.238:8080/user`
