@@ -5,7 +5,7 @@
 > user_id:7로만 전송
 
 `http://13.124.115.238:8080/insertContents`
-### GET 모든유저보기##
+### GET 모든유저보기
 `http://13.124.115.238:8080/user`
 ### GET 모든글보기
 `http://13.124.115.238:8080/contents`
@@ -15,7 +15,7 @@ _res.json_
 - contents의 모든속성
 - user_info.user_name
 
-### POST user_id인 사람 글쓰기###
+### POST user_id인 사람 글쓰기
 `http://13.124.115.238:8080/contents/:id`
 
 _req.body_
