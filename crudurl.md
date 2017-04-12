@@ -11,6 +11,7 @@
 `http://13.124.115.238:8080/contents/all`
 
 ### GET 모든글보기 (로그인 되어있을경우)
+`http://13.124.115.238:8080/contents`
 _req.body_
 
 - user_id
